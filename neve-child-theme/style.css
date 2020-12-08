@@ -1,0 +1,21 @@
+/*
+ Theme Name:   Neve-child-theme
+ Theme URI:    http://example.com/neve-child-theme/
+ Description:  Neve Child Theme
+ Author:       Michala Søndergaard Nielsen
+ Author URI:   http://michalasoendergaard.dk/netflix_equinox
+ Template:     neve
+ Version:      1.0.0
+ License:      GNU General Public License v2 or later
+ License URI:  http://www.gnu.org/licenses/gpl-2.0.html
+ Tags:         light, dark, two-columns, right-sidebar, responsive-layout, accessibility-ready
+ Text Domain:  Neve Child Theme
+*/
+
+.menu-item a img {
+    width: 20px;
+}
+
+.nv-page-title-wrap.nv-big-title .nv-page-title {
+    display: none;
+}
